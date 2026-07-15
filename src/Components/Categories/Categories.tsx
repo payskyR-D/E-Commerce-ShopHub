@@ -1,9 +1,10 @@
-import electronics from "../../assets/categories/electronics.jpg";
-import fashion from "../../assets/categories/fashion.jpg";
-import shoes from "../../assets/categories/shoes.jpg";
-import watches from "../../assets/categories/watches.jpg";
-import beauty from "../../assets/categories/beauty.jpg";
-import furniture from "../../assets/categories/furniture.jpg";
+import electronics from "../../assets/Categories/electronics.jpg";
+import fashion from "../../assets/Categories/fashion.jpg";
+import shoes from "../../assets/Categories/shoes.jpg";
+import watches from "../../assets/Categories/watches.jpg";
+import beauty from "../../assets/Categories/beauty.jpg";
+import furniture from "../../assets/Categories/furniture.jpg";
+
 
 const categories = [
   {
