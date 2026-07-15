@@ -4,7 +4,7 @@ import {
   serverTimestamp,
 } from "firebase/firestore";
 
-import { db } from "../firebase";
+import { db } from "../Firebase/Firebase";
 
 export const createOrder = async (orderData: any) => {
   const ordersRef = collection(db, "orders");
